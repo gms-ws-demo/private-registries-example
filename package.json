@@ -1,0 +1,22 @@
+{
+  "name": "private-registries-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gms-ws-demo/private-registries-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gms-ws-demo/private-registries-example/issues"
+  },
+  "homepage": "https://github.com/gms-ws-demo/private-registries-example#readme",
+  "dependencies": {
+    "@gms-ws-demo/npm-remote-registry-example": "^0.1.1"
+  }
+}
